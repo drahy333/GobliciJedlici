@@ -1,4 +1,5 @@
 # GobliciJedlici
+Coded in Java.
 Tic-Tac-Toe game with a little twist
 
 What it is -> a game similar to tic-tac-toe, but instead of marking spaces, we can stack goblins on top of each other and also move them within the playing area. The winner is the first to have three goblins in a row/column/diagonal. It is essential to remember the positions of the goblins.
